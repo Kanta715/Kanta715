@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanta Inoue</h1>
+<h1 align="center">Hi 👋, I'm Kanta715</h1>
 <h3 align="center">Responsible for frontend and backend</h3>
 
 - 🔭 I’m currently working on [KIDSNAシッター](https://sitter.kidsna.com/)
